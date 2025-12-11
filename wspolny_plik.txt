@@ -1,2 +1,4 @@
-"tekst poczatkowy" 
-"Linia dodana przez StuB" 
+tekst poczatkowy
+Linia dodana przez StuB
+Linia dodana przez StuA
+
